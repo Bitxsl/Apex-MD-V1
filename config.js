@@ -13,7 +13,7 @@ global.gurl = 'https://instagram.com/' // add your username
 global.sudo = process.env.SUDO || '2347039570336,2348050907760'
 global.devs = '2347039570336,2348050907760';
 global.website = 'https://github.com/excelottah6/IZUKU-Md' //wa.me/+91000000000000
-global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://raw.githubusercontent.com/SecktorBot/Brandimages/main/logos/SocialLogo%201.png'
+global.THUMB_IMAGE = process.env.THUMB_IMAGE || 'https://telegra.ph/file/55435b6fa0563204b7b5a.jpg'
 module.exports = {
   
   sessionName:  process.env.SESSION_ID ||  "PASTE YOUR SESSION ID HERE",
