@@ -1,7 +1,7 @@
 </p>
 <p align="center">
   <a href="https://chat.whatsapp.com/BEhEne7RdGBC3y5vYltuxL">
-    <img alt=Support height="400" src="https://telegra.ph/file/1b391485b560f9a2eebb5.jpg"> 
+    <img alt=Support height="400" src="https://telegra.ph/file/55435b6fa0563204b7b5a.jpg"> 
     </p>
 <h1 align="center"> 𝗔𝗣𝗘𝗫 𝗠𝗗 𝗪𝗛𝗔𝗧𝗦𝗔𝗣𝗣 𝗕𝗢𝗧 
 </h1>
