@@ -131,7 +131,7 @@ cmd({
                         jpegThumbnail: log0,
                         mimetype: 'video/mp4',
                         fileName: `${titleYt}.mp4`,
-                        caption: ` ⿻ Title : ${titleYt}\n ⿻ File Size : ${fileSizeInMegabytes} MB`,
+                        caption: ` 🎬 Title : ${titleYt}\n 📁 File Size : ${fileSizeInMegabytes} MB\n © 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 ᳆⃞⃚🇱🇰ʀͥᴇᷧᴀͫʟ⃟  𝙰𝙿𝙴𝚇 -𝚖𝚍 ²ᵏ²²`,
                         headerType: 4,
                         contextInfo: {
                             externalAdReply: {
@@ -174,7 +174,7 @@ cmd({
 	let searc = await search(text);          //console.log(searc);
 	let data={};
 	if(searc.length){ data = await download(searc[0].id); }
-	else return citel.send("*APP not Found, Try Other Name*");
+	else return citel.send("*APP not Found, Try Other Name By apex*");
 	
 	
 	const apkSize = parseInt(data.size);
@@ -238,7 +238,7 @@ cmd({
                 },
                 caption: `
 ╔═════════•∞•═╗
-│⿻ ${tlang().title} 
+│⿻ © 𝙶𝙴𝙽𝙴𝚁𝙰𝚃𝙴𝙳 𝙱𝚈 ᳆⃞⃚🇱🇰ʀͥᴇᷧᴀͫʟ⃟  𝙰𝙿𝙴𝚇 -𝚖𝚍  
 │  *Youtube Player* ✨
 │⿻ *Title:* ${anu.title}
 │⿻ *Duration:* ${anu.timestamp}
