@@ -9,7 +9,7 @@
  ! ᴵ ᴬᵐ ᴬ ᵂʰᵃᵗˢᵃᵖᵖ ᴮᵒᵗ ᶜʳᵉᵃᵗᵉᵈ ᴮʸ ˢᵃᵐ ᵖᵃⁿᵈᵉʸ ᵃⁿᵈ ʳᵉᶜᵒᵈᵉᵈ ᵇʸ ᴱˣᶜᴱᴸ  ᵀᵒ ᴰᵒ ᴱᵛᵉʳʸᵗʰⁱⁿᵍ ᵀʰᵃᵗ ᴵˢ ᴾᵒˢˢⁱᵇˡᵉ ᴼⁿ ᵂʰᵃᵗˢᴬᵖᵖ ᴮᵃˢᵉᵈ ᴼⁿ ᵂʰᵃᵗˢᴬᵖᵖ ᴹᵘˡᵗⁱ ᴰᵉᵛⁱᶜᵉ⁽ᴹᴰ⁾ ˢᵘᵖᵖᵒʳᵗ.
 
   <div align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THIS IS+𝙸𝚉𝚄𝙺𝚄-𝙼𝙳;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+Bit+X;PUBLIC+RELESED; ...;TEAM Bitx." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Black+Ops+One&size=50&pause=1000&color=1BAFBAFF&center=true&width=910&height=100&lines=THIS IS+Appex-MD;MULTI+DEVICE+WHATSAPP+BOT;CREATED+BY+Bit+X;PUBLIC+RELESED; ...;TEAM Bitx." alt="Typing SVG" /></a>
   </p>
   <br>
 
@@ -17,7 +17,7 @@
 
 <p align="right">
   <a href="" target="_blank">
-    <img alt="Forks" src="https://img.shields.io/github/forks/excelottah6/IZUKU-MD" />
+    <img alt="Forks" src="https://img.shields.io/github/forks/exceloh6/IZUKU-MD" />
   </a>
   
   
@@ -25,7 +25,7 @@
 </p>
 <p align="center"><img src="https://profile-counter.glitch.me/{excelottah6}/count.svg" alt="excelottah6 :: Visitor's Count" /></p>
 <p align="center">
- <a href="https://chat.whatsapp.com/BEhEne7RdGBC3y5vYltuxL" target="_blank">
+ <a href="https://chat.whatsapp.com/BEhEne7RdGBC3y5ltuxL" target="_blank">
     <img alt="whatsapp Group" src="https://img.shields.io/badge/ IZUKU Support Group -25D366?style=for-the-badge&logo=whatsapp&logoColor=blue" />
   </a>
 </p>
